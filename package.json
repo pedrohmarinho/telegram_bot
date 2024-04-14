@@ -3,6 +3,8 @@
     "@types/node-telegram-bot-api": "^0.64.6"
   },
   "dependencies": {
-    "@sashido/teachablemachine-node": "^1.2.2"
+    "@sashido/teachablemachine-node": "^1.2.2",
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.65.1"
   }
 }
